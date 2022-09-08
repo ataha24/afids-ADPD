@@ -1,2 +1,2 @@
-# afids-PD
-utilizing anatomical landmarks (AFIDs) for the diagnosis of Parkinson's disease and Alzheimer's disease
+# afids-ADPD
+utilizing anatomical landmarks (AFIDs) for the diagnosis of Alzheimer's disease and Parkinson's disease
